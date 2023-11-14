@@ -1,0 +1,5 @@
+IP : 1.1.1.1
+PORT : 3306
+ID : root
+PW : qwer1234
+DBNAME : web
